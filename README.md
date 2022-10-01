@@ -28,7 +28,7 @@ https://github.com/VoDuyThienVinh/ProgressSteps
 https://voduythienvinh.github.io/ProgressSteps/
 ```
 
-## Adatep From:
+## Adapted From:
 Udemy Course: 50 Project in 50 Days - HTML, CSS & Javascript
 Project Name: Day 2 - Progress Steps
 Create by: Brad Traversy, Florin Pop
